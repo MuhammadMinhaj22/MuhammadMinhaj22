@@ -39,7 +39,7 @@
 ## 📫 Let’s Connect
 
 - 📧 Email: your.email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/](https://www.linkedin.com/in/muhammad-minhaj-277893352/)
+- 🔗 LinkedIn: [linkedin.com/in/Muhammad Minhaj](https://www.linkedin.com/in/muhammad-minhaj-277893352/)
 
 ---
 
