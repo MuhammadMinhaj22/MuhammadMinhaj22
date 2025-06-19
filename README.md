@@ -6,10 +6,15 @@
 
 ## 🛠️ Skills
 
-- 💻 **Languages:** HTML, CSS, Python  
-- 📚 **Libraries:** Pandas, NumPy  
-- 🧱 **Tools:** GitHub, VS Code, gTTS, Pygame  
-- 🤖 **Learning:** AI & Machine Learning
+### 💻 Languages and Tools:
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+</p>
+
+---
 
 ---
 
@@ -38,8 +43,16 @@
 
 ## 📫 Let’s Connect
 
-- 📧 Email: your.email@example.com  
-- 🔗 LinkedIn: [linkedin.com/in/Muhammad Minhaj](https://www.linkedin.com/in/muhammad-minhaj-277893352/)
+### 🔗 Connect with me:
+<p align="left">
+  <a href="https://www.linkedin.com/in/Muhammad Minhaj" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://github.com/MuhammadMinhaj22" target="_blank"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" /></a>
+  <a href="mailto:your.minhajmuhammad265@gmail.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail" /></a>
+</p>
+
+---
+
+
 
 ---
 
