@@ -59,3 +59,9 @@
 > “Never stop building. Every small project takes you a step closer to greatness.” 🚀
 
 Thanks for stopping by! ⭐️ my repositories to support my journey!
+## 📊 GitHub Stats:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Minhaj&show_icons=true&theme=github_dark&count_private=true&hide=prs,issues&custom_title=Minhaj's%20GitHub%20Stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Minhaj&layout=compact&theme=github_dark&langs_count=5)
+
