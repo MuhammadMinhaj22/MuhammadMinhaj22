@@ -60,5 +60,9 @@
 
 Thanks for stopping by! ⭐️ my repositories to support my journey!
 
+## 🚀 GitHub Stats:
+![Minhaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Minhaj&show_icons=true&theme=github_dark&count_private=true&hide=prs,issues&custom_title=Minhaj's%20GitHub%20Stats)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Minhaj&layout=compact&theme=github_dark&langs_count=3)
+
 
 
