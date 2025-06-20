@@ -59,25 +59,6 @@
 > “Never stop building. Every small project takes you a step closer to greatness.” 🚀
 
 Thanks for stopping by! ⭐️ my repositories to support my journey!
-### 📊 GitHub Stats:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical&hide=prs,issues&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-username&theme=radical&hide_border=true" />
-</p>
-
----
-
-### 🛠️ Languages:
-
-```text
-🌐 HTML      ████████████░░░░░░░ 34.33%  
-🎨 CSS       ██████████████░░░░ 41.81%  
-🐍 Python    ██████░░░░░░░░░░░░ 22.03%  
-☕ Java      █░░░░░░░░░░░░░░░░░ 1.83%
 
 
