@@ -59,9 +59,21 @@
 > “Never stop building. Every small project takes you a step closer to greatness.” 🚀
 
 Thanks for stopping by! ⭐️ my repositories to support my journey!
-## 📊 GitHub Stats:
+## 🚀 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Minhaj&show_icons=true&theme=github_dark&count_private=true&hide=prs,issues&custom_title=Minhaj's%20GitHub%20Stats)
+![Minhaj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-Minhaj&show_icons=true&theme=github_dark&count_private=true&hide=prs,issues&custom_title=Minhaj's%20GitHub%20Stats)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Minhaj&layout=compact&theme=github_dark&langs_count=5)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Minhaj&layout=compact&theme=github_dark&langs_count=5)
 
+---
+
+## 💻 Tech Stack:
+- 👨‍💻 **Python** – Strong (Projects & Games)
+- 🌐 **HTML/CSS** – For Frontend Designs
+- 📊 **Libraries** – Pandas, NumPy
+
+---
+
+## 🧠 Currently Learning:
+- AI/ML Concepts
+- Data Analysis using Python
