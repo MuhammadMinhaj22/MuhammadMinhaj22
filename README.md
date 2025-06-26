@@ -1,4 +1,5 @@
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif" width="100%" />
+
 # 👋 Hello! I'm Muhammad Minhaj
 
 🎯 A passionate self-taught developer exploring the world of **Python**, **Web Development**, and now diving into **AI/ML**!
