@@ -91,9 +91,3 @@
 > “Never stop building. Every small project takes you a step closer to greatness.” 🚀
 
 Thanks for stopping by! ⭐️ my repositories to support my journey!
-
-<video width="20" controls>
-  <source src="e2d302186abc73574210abe7de7f031d.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
