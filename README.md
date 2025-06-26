@@ -87,7 +87,6 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="MuhammadMinhaj22" /></a></p><br><br>
 
 > “Never stop building. Every small project takes you a step closer to greatness.” 🚀
 
