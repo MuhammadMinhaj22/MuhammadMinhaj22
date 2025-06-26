@@ -97,7 +97,7 @@ Thanks for stopping by! ⭐️ my repositories to support my journey!
 
 <!-- GIF Animation -->
 <p align="center">
-  <img src="MINHAJ/linkedin/e2d302186abc73574210abe7de7f031d-ezgif.com-video-to-gif-converter" alt="Coding GIF" width="400"/>
+  <img src="MuhammadMinhaj22/MINHAJ/linkedin/e2d302186abc73574210abe7de7f031d-ezgif.com-video-to-gif-converter" alt="Coding GIF" width="400"/>
 </p>
 
 # 👋 Hello! I'm Muhammad Minhaj
