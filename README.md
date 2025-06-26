@@ -92,4 +92,9 @@
 
 Thanks for stopping by! ⭐️ my repositories to support my journey!
 
+## ⚙️ Preview: Tech Animation
+
+<p align="center">
+  <img src="https://github.com/MuhammadMinhaj22/MuhammadMinhaj22/blob/main/assets/ezgif-22ce07ec82c93.gif" alt="Tech Animation" width="500"/>
+</p>
 
