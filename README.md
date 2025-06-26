@@ -94,4 +94,5 @@ Thanks for stopping by! ⭐️ my repositories to support my journey!
 
 ## 🎥 Demo Video
 
-📽️ [Click here to watch the video](./e2d302186abc73574210abe7de7f031d.mp4)
+[![Watch the video](https://img.youtube.com/vi/VIDEO_ID/maxresdefault.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+
