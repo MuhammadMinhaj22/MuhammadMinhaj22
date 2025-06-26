@@ -4,6 +4,8 @@
 
 🎯 A passionate self-taught developer exploring the world of **Python**, **Web Development**, and now diving into **AI/ML**!
 
+<img align="right" src="https://cdn.prod.website-files.com/624ac40503a527cf47af4192/65a8e037a9cf99aabbe9e385_ai-gif-generator-7.gif" width="400px" />
+
 ---
 
 ## 🛠️ Skills
