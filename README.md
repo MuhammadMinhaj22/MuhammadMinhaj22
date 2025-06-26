@@ -4,9 +4,10 @@
 
 ---
 
-<p align="right">
-  <img src="https://lottie.host/eb55b7e4-bda4-4f89-8d0d-b6d8ccf3e918/Y4dQ1pL1Gn.gif" alt="Lottie Animation" width="400"/>
-</p>
+<div>
+<h3 align="center">Eat, Sleep, Code and Repeat</h3>
+<img  align="right" alt="Coding" width="400" src="https://res.cloudinary.com/MuhammadMinhaj22/image/upload/v1714147710/orat84212vganer7dn5q.gif" />
+</div>
 
 
 ## 🛠️ Skills
