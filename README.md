@@ -1,4 +1,4 @@
-<img align="top" width="100%" src="https://img5.thuthuatphanmem.vn/uploads/2021/12/20/anh-dong-chu-welcome-don-gian-dep_075903222.gif">
+<img align="top" width="100%" src="https://img5.thuthuatphanmem.vn/uploads/2021/12/20/anh-dong-chu-welcome-don-gian-dep_075903222.gif" height="200px">
 
 # 👋 Hello! I'm Muhammad Minhaj
 
