@@ -9,6 +9,7 @@
 ---
 
 ## 💫 About Me:
+
 🌱 I’m currently deepening my knowledge in Artificial Intelligence (AI) and Machine Learning (ML)
 
 👯 Open to collaborating on beginner-friendly projects in Python and Web Development that focus on learning and creativity.
