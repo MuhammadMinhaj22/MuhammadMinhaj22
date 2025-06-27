@@ -8,6 +8,15 @@
 
 ---
 
+## 💫 About Me:
+🌱 I’m currently deepening my knowledge in Artificial Intelligence (AI) and Machine Learning (ML)
+👯 Open to collaborating on beginner-friendly projects in Python and Web Development that focus on learning and creativity.
+🌱 Exploring the world of Data Science with Python, and diving deep into Machine Learning concepts.
+💬 Passionate about turning ideas into real-world apps — whether it’s websites, automation tools, or mini-games!
+⚡ Fun Fact: I believe laziness can be a superpower — I always try to find the smartest and most efficient way to solve a problem.
+---
+---
+
 ## 🛠️ Skills
 
 ### 💻 Languages and Tools:
@@ -25,30 +34,7 @@
 
 ---
 
----
 
-## 🧪 Projects I’ve Built
-
-### 🌐 Web Development (HTML/CSS)
-- Responsive Sign-Up Page
-- Travel Booking Website
-- Blog Page with Hover Cards
-
-### 🐍 Python Projects
-- 🎮 Snake-Water-Gun Game (GUI)
-- 🏎️ Car Racing Game with Score Tracking
-- 🧠 JARVIS-like Virtual Assistant  
-  (Weather, Wikipedia, Alarms, Music, Voice Output via gTTS)
-
----
-
-## 📈 Currently Learning
-
-- Python for Data Science
-- Machine Learning Algorithms
-- Projects using Pandas & NumPy
-
----
 
 ## 📫 Let’s Connect
 
@@ -91,4 +77,6 @@
 > “Never stop building. Every small project takes you a step closer to greatness.” 🚀
 
 Thanks for stopping by! ⭐️ my repositories to support my journey!
+
+<img align="top" width="100%" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif" >
 
