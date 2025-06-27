@@ -1,4 +1,4 @@
-
+<img align="top" width="100%" src="https://i.pinimg.com/originals/ff/81/de/ff81dee1dcdd40d560569fe2ae94b6d3.gif">
 
 # 👋 Hello! I'm Muhammad Minhaj
 
