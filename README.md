@@ -10,10 +10,15 @@
 
 ## 💫 About Me:
 🌱 I’m currently deepening my knowledge in Artificial Intelligence (AI) and Machine Learning (ML)
+
 👯 Open to collaborating on beginner-friendly projects in Python and Web Development that focus on learning and creativity.
+
 🌱 Exploring the world of Data Science with Python, and diving deep into Machine Learning concepts.
+
 💬 Passionate about turning ideas into real-world apps — whether it’s websites, automation tools, or mini-games!
+
 ⚡ Fun Fact: I believe laziness can be a superpower — I always try to find the smartest and most efficient way to solve a problem.
+
 ---
 ---
 
