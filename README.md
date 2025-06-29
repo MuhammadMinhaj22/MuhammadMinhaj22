@@ -65,6 +65,4 @@ Thanks for stopping by! ⭐️ my repositories to support my journey!
   <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="100%" height="50px"/>
 </div>
 
-![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=muhammadminhaj&theme=github-compact&area=true)
-
-<img align="top" width="100%" src="https://www.rpnation.com/gallery/animated-sound-waves.30807/full" height="200px">
+<img src="https://cdn.svgator.com/images/2024/01/svgator-bird-alligator-cta.gif" height="200px" width="100%"/>
