@@ -2,7 +2,10 @@
 
 # 👋 Hello! I'm Muhammad Minhaj
 
----
+
+<div align="center">
+  <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="100%" height="50px"/>
+</div>
 
 ### 🎯 About Me
 <img align="right" src="https://cdn.prod.website-files.com/624ac40503a527cf47af4192/65a8e037a9cf99aabbe9e385_ai-gif-generator-7.gif" width="400px" />
@@ -37,7 +40,9 @@ A passionate self-taught developer exploring Python, Web Development, and diving
   <a href="mailto:your.minhajmuhammad265@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/></a>
 </p>
 
----
+<div align="center">
+  <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="100%" height="50px"/>
+</div>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MuhammadMinhaj22&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -47,7 +52,10 @@ A passionate self-taught developer exploring Python, Web Development, and diving
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MuhammadMinhaj22&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
----
+<div align="center">
+  <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="100%" height="50px"/>
+</div>
+
 [![](https://visitcount.itsvg.in/api?id=MuhammadMinhaj22&icon=0&color=0)](https://visitcount.itsvg.in)
 
 > “Never stop building. Every small project takes you a step closer to greatness.” 🚀
@@ -55,4 +63,3 @@ A passionate self-taught developer exploring Python, Web Development, and diving
 Thanks for stopping by! ⭐️ my repositories to support my journey!
 
 <img align="top" width="100%" src="https://www.rpnation.com/gallery/animated-sound-waves.30807/full" height="200px">
-
