@@ -1,27 +1,18 @@
-<img align="top" width="100%" src="https://img5.thuthuatphanmem.vn/uploads/2021/12/20/anh-dong-chu-welcome-don-gian-dep_075903222.gif" height="200px">
+<img align="top" width="100%" src="https://raw.githubusercontent.com/gist/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif" height="200px">
 
 # 👋 Hello! I'm Muhammad Minhaj
 
-🎯 A passionate self-taught developer exploring the world of **Python**, **Web Development**, and now diving into **AI/ML**!
-
+## 🎯 About Me
 <img align="right" src="https://cdn.prod.website-files.com/624ac40503a527cf47af4192/65a8e037a9cf99aabbe9e385_ai-gif-generator-7.gif" width="400px" />
+A passionate self-taught developer exploring Python, Web Development, and diving into AI/ML.
 
----
+🌱 Currently learning Data Science and Machine Learning with Python.
 
-## 💫 About Me:
+👯 Open to collaborate on beginner-friendly and creative projects.
 
-🌱 I’m currently deepening my knowledge in Artificial Intelligence (AI) and Machine Learning (ML)
+💬 Love building websites, tools, and mini-games.
 
-👯 Open to collaborating on beginner-friendly projects in Python and Web Development that focus on learning and creativity.
-
-🌱 Exploring the world of Data Science with Python, and diving deep into Machine Learning concepts.
-
-💬 Passionate about turning ideas into real-world apps — whether it’s websites, automation tools, or mini-games!
-
-⚡ Fun Fact: I believe laziness can be a superpower — I always try to find the smartest and most efficient way to solve a problem.
-
----
----
+⚡ Fun Fact: I believe laziness is a superpower — I always look for smart solutions!
 
 ## 🛠️ Skills
 
@@ -53,10 +44,6 @@
 
 ---
 
----
-
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=MuhammadMinhaj22&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=MuhammadMinhaj22&theme=shadow_green&hide_border=false)<br/>
@@ -84,5 +71,5 @@
 
 Thanks for stopping by! ⭐️ my repositories to support my journey!
 
-<img align="top" width="100%" src="https://cdn.hashnode.com/res/hashnode/image/upload/v1651780522995/zZbL8WM2v.gif" >
+<img align="top" width="100%" src="https://www.rpnation.com/gallery/animated-sound-waves.30807/full" height="200px">
 
