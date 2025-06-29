@@ -2,7 +2,9 @@
 
 # 👋 Hello! I'm Muhammad Minhaj
 
-## 🎯 About Me
+---
+
+### 🎯 About Me
 <img align="right" src="https://cdn.prod.website-files.com/624ac40503a527cf47af4192/65a8e037a9cf99aabbe9e385_ai-gif-generator-7.gif" width="400px" />
 
 A passionate self-taught developer exploring Python, Web Development, and diving into AI/ML.
@@ -13,9 +15,7 @@ A passionate self-taught developer exploring Python, Web Development, and diving
 
 💬 Love building websites, tools, and mini-games.
 
-⚡ Fun Fact: I believe laziness is a superpower — I always look for smart solutions!
-
-## 🛠️ Skills
+⚡ Fun Fact: I believe laziness is a superpower - I always look for smart solutions!
 
 ### 💻 Languages and Tools:
 <p align="left">
@@ -29,12 +29,6 @@ A passionate self-taught developer exploring Python, Web Development, and diving
   <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="MS Office" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/>
 </p>
-
----
-
-
-
-## 📫 Let’s Connect
 
 ### 🔗 Connect with me:
 <p align="left">
@@ -55,18 +49,6 @@ A passionate self-taught developer exploring Python, Web Development, and diving
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MuhammadMinhaj22&icon=0&color=0)](https://visitcount.itsvg.in)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MuhammadMinhaj22&theme=shadow_green&no-frame=false&no-bg=true&margin-w=4)
-
----
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 
 > “Never stop building. Every small project takes you a step closer to greatness.” 🚀
 
