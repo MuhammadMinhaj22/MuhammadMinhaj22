@@ -4,6 +4,7 @@
 
 ## 🎯 About Me
 <img align="right" src="https://cdn.prod.website-files.com/624ac40503a527cf47af4192/65a8e037a9cf99aabbe9e385_ai-gif-generator-7.gif" width="400px" />
+
 A passionate self-taught developer exploring Python, Web Development, and diving into AI/ML.
 
 🌱 Currently learning Data Science and Machine Learning with Python.
