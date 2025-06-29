@@ -45,7 +45,7 @@ A passionate self-taught developer exploring Python, Web Development, and diving
 </div>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhammadMinhaj22&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MuhammadMinhaj22&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=MuhammadMinhaj22&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMinhaj22&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
@@ -61,5 +61,9 @@ A passionate self-taught developer exploring Python, Web Development, and diving
 > “Never stop building. Every small project takes you a step closer to greatness.” 🚀
 
 Thanks for stopping by! ⭐️ my repositories to support my journey!
+
+<div align="center">
+  <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="100%" height="50px"/>
+</div>
 
 <img align="top" width="100%" src="https://www.rpnation.com/gallery/animated-sound-waves.30807/full" height="200px">
