@@ -3,7 +3,7 @@
 # 👋 Hello! I'm Muhammad Minhaj
 
 <div align="center">
-  <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="100%" height="50px"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3RvMjZqZ2tvNWFvemIzNXdlc2g3NGtkNzV3dzd2bDBsMHE1NWFoayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIj8cbzWYKnE9ul3ab/source.gif" width="100%" height="100px"/>
 </div>
 
 ### 🎯 About Me
@@ -40,7 +40,7 @@ A passionate self-taught developer exploring Python, Web Development, and diving
 </p>
 
 <div align="center">
-  <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="100%" height="50px"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3RvMjZqZ2tvNWFvemIzNXdlc2g3NGtkNzV3dzd2bDBsMHE1NWFoayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIj8cbzWYKnE9ul3ab/source.gif" width="100%" height="100px"/>
 </div>
 
 # 📊 GitHub Stats:
@@ -52,7 +52,7 @@ A passionate self-taught developer exploring Python, Web Development, and diving
 ![](https://github-contributor-stats.vercel.app/api?username=MuhammadMinhaj22&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 <div align="center">
-  <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="100%" height="50px"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3RvMjZqZ2tvNWFvemIzNXdlc2g3NGtkNzV3dzd2bDBsMHE1NWFoayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIj8cbzWYKnE9ul3ab/source.gif" width="100%" height="100px"/>
 </div>
 
 [![](https://visitcount.itsvg.in/api?id=MuhammadMinhaj22&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -62,7 +62,7 @@ A passionate self-taught developer exploring Python, Web Development, and diving
 Thanks for stopping by! ⭐️ my repositories to support my journey!
 
 <div align="center">
-  <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif" width="100%" height="50px"/>
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTZjMDliOTUyY3RvMjZqZ2tvNWFvemIzNXdlc2g3NGtkNzV3dzd2bDBsMHE1NWFoayZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/TIj8cbzWYKnE9ul3ab/source.gif" width="100%" height="100px"/>
 </div>
 
 <img src="https://cdn.svgator.com/images/2024/01/svgator-bird-alligator-cta.gif" height="200px" width="100%"/>
