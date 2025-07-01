@@ -48,13 +48,13 @@ A passionate self-taught developer exploring Python, Web Development, and diving
 ![](https://nirzak-streak-stats.vercel.app/?user=MuhammadMinhaj22&theme=shadow_green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMinhaj22&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=MuhammadMinhaj22&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
+
 
 [![](https://visitcount.itsvg.in/api?id=MuhammadMinhaj22&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MuhammadMinhaj22&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
 
 <div align="center">
   <img src="https://i.gifer.com/origin/7d/7d1c0015912d9b30038595971af2ad57_w200.gif" width="100%" height="13px"/>
