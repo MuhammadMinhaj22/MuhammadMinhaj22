@@ -11,7 +11,7 @@
 
 A passionate self-taught developer exploring Python, Web Development, and diving into AI/ML.
 
-🌱 Currently learning Data Science and Machine Learning with Python.
+🌱 Currently learning Artificial Intelligence and Machine Learning with Python.
 
 👯 Open to collaborate on beginner-friendly and creative projects.
 
@@ -25,8 +25,8 @@ A passionate self-taught developer exploring Python, Web Development, and diving
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   <img src="https://pandas.pydata.org/static/img/pandas_mark.svg" alt="Pandas" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="MS Office" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/>
