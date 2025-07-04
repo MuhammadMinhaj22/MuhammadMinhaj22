@@ -1,4 +1,4 @@
-<img align="top" width="100%" src="https://raw.githubusercontent.com/gist/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif" height="200px">
+<img align="top" width="100%" src="https://raw.githubusercontent.com/gist/codesandtags/998ecaff2f1b1a0f1d97d6d8a93867b9/raw/0d405110fc8f9a4acfd31937a820076dea8fe46f/welcome.gif" height="150px">
 
 # 👋 Hello! I'm Muhammad Minhaj
 
@@ -53,13 +53,11 @@ A passionate self-taught developer exploring Python, Web Development, and diving
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
 [![](https://visitcount.itsvg.in/api?id=MuhammadMinhaj22&icon=0&color=0)](https://visitcount.itsvg.in)
 
-> “Never stop building. Every small project takes you a step closer to greatness.” 🚀
+> “Never stop building. Every small project takes you a step closer to greatness.”
 
-Thanks for stopping by! ⭐️ my repositories to support my journey!
+🚀Thanks for stopping by! ⭐️ my repositories to support my journey!
 
 <p align="center">
   <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/54b6c068097599.5b50bca476b9b.gif" alt="Banner" width="100%" height="200px" />
