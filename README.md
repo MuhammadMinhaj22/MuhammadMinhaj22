@@ -3,7 +3,7 @@
 # 👋 Hello! I'm Muhammad Minhaj
 
 <div align="center">
-  <img src="" width="100%" height="13px"/>
+  <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif"/>
 </div>
 
 ### 🎯 About Me
