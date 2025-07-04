@@ -2,9 +2,7 @@
 
 # 👋 Hello! I'm Muhammad Minhaj
 
-<div align="center">
-  <img src="https://i.gifer.com/origin/8c/8cd3f1898255c045143e1da97fbabf10_w200.gif"/>
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🎯 About Me
 <img align="right" src="https://cdn.prod.website-files.com/624ac40503a527cf47af4192/65a8e037a9cf99aabbe9e385_ai-gif-generator-7.gif" width="400px" />
@@ -31,6 +29,7 @@ A passionate self-taught developer exploring Python, Web Development, and diving
   <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="MS Office" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/>
 </p>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🔗 Connect with me:
 <p align="left">
@@ -42,8 +41,8 @@ A passionate self-taught developer exploring Python, Web Development, and diving
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhammadMinhaj22&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MuhammadMinhaj22&theme=shadow_green&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=MuhammadMinhaj22&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=MuhammadMinhaj22&theme=shadow_green&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMinhaj22&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
