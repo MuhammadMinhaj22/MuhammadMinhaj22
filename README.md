@@ -8,7 +8,7 @@
 <img align="right" src="https://cdn.prod.website-files.com/624ac40503a527cf47af4192/65a8e037a9cf99aabbe9e385_ai-gif-generator-7.gif" width="400px" />
 
 A passionate self-taught developer exploring Python, Web Development, and diving into AI/ML.
-
+http://127.0.0.1:5500/Portfolio_web/index.html#contacthttp://127.0.0.1:5500/Portfolio_web/index.html#contact
 🌱 Currently learning Artificial Intelligence and Machine Learning with Python.
 
 👯 Open to collaborate on beginner-friendly and creative projects.
