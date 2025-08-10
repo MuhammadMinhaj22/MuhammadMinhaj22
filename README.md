@@ -18,7 +18,7 @@ A passionate self-taught developer exploring Python, Web Development, and diving
 ⚡ Fun Fact: I believe laziness is a superpower - I always look for smart solutions!
 
 👉 Explore my portfolio below:
-http://127.0.0.1:5500/Portfolio_web/Minhaj's%20Portfolio.html
+https://portfolio-of-minhaj.vercel.app/
 
 ### 💻 Languages and Tools:
 <p align="left">
