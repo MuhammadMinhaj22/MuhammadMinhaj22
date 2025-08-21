@@ -31,12 +31,13 @@ https://portfolio-of-minhaj.vercel.app/
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="40" height="40"/>
   <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="MS Office" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="40" height="40"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ### 🔗 Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/Muhammad Minhaj" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
+  <a href="https://www.linkedin.com/in/muhammad-minhaj-0509a437b/" target="_blank"><img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="40" height="40"/></a>
   <a href="https://github.com/MuhammadMinhaj22" target="_blank"><img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/></a>
   <a href="mailto:your.minhajmuhammad265@gmail.com"><img src="https://img.icons8.com/color/48/gmail-new.png" alt="Gmail" width="40" height="40"/></a>
 </p>
