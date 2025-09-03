@@ -32,8 +32,11 @@ https://portfolio-of-minhaj.vercel.app/
   <img src="https://img.icons8.com/color/48/000000/microsoft-office-2019.png" alt="MS Office" width="40" height="40"/>
   <img src="https://img.icons8.com/ios-filled/50/ffffff/github.png" alt="GitHub" width="40" height="40"/>
   <img src="https://cdn.simpleicons.org/n8n" alt="n8n" width="40" height="40"/>
+  <img src="https://cdn.simpleicons.org/airtable" alt="Airtable" title="Airtable" width="40" height="40"/>
 </p>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+
 
 ### 🔗 Connect with me:
 <p align="left">
