@@ -18,7 +18,7 @@ A passionate self-taught developer exploring Python, Web Development, and diving
 ⚡ Fun Fact: I believe laziness is a superpower - I always look for smart solutions!
 
 👉 Explore my portfolio below:
-https://portfolio-of-minhaj-git-main-muhammadminhaj22s-projects.vercel.app/
+https://portfolioofminhaj.vercel.app/
 ### 💻 Languages and Tools:
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
