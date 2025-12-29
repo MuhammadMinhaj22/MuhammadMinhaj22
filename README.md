@@ -34,7 +34,7 @@ https://portfolioofminhaj.vercel.app/
   <img src="https://cdn.simpleicons.org/airtable" alt="Airtable" title="Airtable" width="40" height="40"/>
   <img src="https://img.icons8.com/color/100/artificial-intelligence.png" width="40" height="40" alt="Prompt Engineering">
  <img src="https://img.icons8.com/color/100/workflow.png" width="40" height="40" alt="Context Engineering">
- <img src="https://cdn.simpleicons.org/canva" alt="Canva logo" width="40" height="40">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGpJ8UFG03-e_wuIAfqnNlnVzUDZ-4Uxxwiw&s" alt="Canva logo" width="40" height="40">
 <img src="https://cdn.simpleicons.org/supabase" alt="Supabase logo" width="40" height="40">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQFx3TOgdzsgVX0RXSJ6ubGRKLOqXjnPKUPg&s" alt="UXpilot logo" width="40" height="40">
 </p>
