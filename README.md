@@ -52,19 +52,16 @@ https://portfolio-three-roan-15.vercel.app/
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=MuhammadMinhaj22&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MuhammadMinhaj22&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MuhammadMinhaj22&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=MuhammadMinhaj22&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=MuhammadMinhaj22&theme=onedark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=MuhammadMinhaj22&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MuhammadMinhaj22&limit=5&theme=shadow_green&combine_all_yearly_contributions=true)
-
-
-[![](https://visitcount.itsvg.in/api?id=MuhammadMinhaj22&icon=0&color=0)](https://visitcount.itsvg.in)
+---
+[![](https://komarev.com/ghpvc/?username=MuhammadMinhaj22&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-[![](https://visitcount.itsvg.in/api?id=MuhammadMinhaj22&icon=0&color=0)](https://visitcount.itsvg.in)
 
 > “Never stop building. Every small project takes you a step closer to greatness.”
 
