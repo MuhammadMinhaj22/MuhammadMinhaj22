@@ -51,7 +51,7 @@ https://portfolio-three-roan-15.vercel.app/
 
 
 
-# 📊 GitHub Stats:
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=MuhammadMinhaj22&theme=onedark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=MuhammadMinhaj22&theme=onedark&hide_border=false)<br/>
